@@ -1,0 +1,7 @@
+Jozsi Martin
+git commit 
+git branch
+git merge
+git switch
+git tag
+git rebase

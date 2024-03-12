@@ -1,0 +1,11 @@
+Válaszolj az alábbi kérdésekre:
+Írd bele a saját neved!
+	 Jozsi Martin
+Mi a Git és a GITHUB közötti különbség?
+	 A git az egy verzió kezelő a GITHUB meg egy tároló hely 
+Mit jelent a repository? 
+	 Helyi tároló hely
+Milyen feladatra jó a GITHUB? 
+	 Projectmenedzser
+Mi a stage?
+	 Módositások rogizése
